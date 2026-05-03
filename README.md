@@ -116,6 +116,8 @@ C. Source Code Penjelasan kode per baris:
 53.memanggil fungsi main() untuk menjalankan program
 
 D. Output Program
+<img width="664" height="1040" alt="Cuplikan layar 2026-05-03 195552" src="https://github.com/user-attachments/assets/b31b9b80-f268-47c5-b84f-68b696fa3784" />
+<img width="667" height="652" alt="Cuplikan layar 2026-05-03 195602" src="https://github.com/user-attachments/assets/6f237202-011e-48e2-9a55-695c8545cc60" />
 Penjelasan Output: Program akan langsung menampilkan menu saat dijalankan dan meminta user untuk menginputkan pilihan menu. Saat user memilih menu 1, program meminta user untuk menginputkan nama barang. User menginputkan "Beras", lalu program meminta jumlah stok, user menginputkan angka 50. Program mencetak pesan bahwa "Beras" dengan jumlah 50 berhasil dimasukkan. Program mengulang dan menampilkan menu kembali. User memilih menu 1 lagi, menginputkan "Minyak Goreng" dengan jumlah 15. User kembali memilih menu 1, menginputkan "Gula Pasir" dengan jumlah 30. Tahap selanjutnya, user memilih menu 2. Program akan menampilkan teks "Daftar Stok Saat Ini:" dilanjutkan daftar barang secara urut sesuai waktu input (Beras : 50, Minyak Goreng : 15, Gula Pasir : 30). Kemudian, program kembali ke menu dan user memilih menu 3. Program menjalankan algoritma Insertion Sort di belakang layar, lalu menampilkan teks "Daftar Stok Setelah Diurutkan (Terkecil - Terbesar):" beserta daftarnya yang kini posisinya sudah berubah terurut berdasarkan jumlah (Minyak Goreng : 15, Gula Pasir : 30, Beras : 50). Selanjutnya, user menginputkan menu 4 untuk keluar, program mencetak pesan "Program selesai.", dan perulangan pun berakhir.
 
 Link Youtube:
