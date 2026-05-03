@@ -1,10 +1,10 @@
-
 A. PROGRAM MANAJEMEN STOK BARANG DENGAN INSERTION SORT
 
 B. Deskripsi Singkat
 Program tersebut berfungsi sebagai sistem sederhana untuk manajemen inventaris atau stok barang. Pengguna dapat menambahkan data barang baru (nama dan jumlah stoknya), melihat daftar stok barang yang sudah diinputkan secara mentah (belum terurut), serta mengurutkan daftar barang tersebut dari jumlah stok paling sedikit ke paling banyak menggunakan algoritma Insertion Sort. Program berjalan dalam loop hingga pengguna memilih untuk keluar dari program. Selain itu, program juga dilengkapi dengan validasi input untuk memastikan data jumlah stok dan pilihan menu yang dimasukkan berupa angka yang valid agar tidak menimbulkan error. Struktur data yang digunakan dalam program ini adalah List 2 Dimensi, di mana list utama data_stok menyimpan sekumpulan elemen list yang masing-masing berisi pasangan [nama_barang, jumlah_stok]. Operasi yang dilakukan meliputi penambahan data menggunakan metode append, pengurutan data dengan logika pertukaran elemen berdasarkan indeks (Insertion Sort), serta penelusuran data menggunakan perulangan for berdasarkan panjang list untuk menampilkan output ke layar.
 
 C. Source Code Penjelasan kode per baris:
+
 
 judul program (komentar)
 
